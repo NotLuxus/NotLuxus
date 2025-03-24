@@ -1,7 +1,7 @@
 ## 👾 About me
 - 💻 Passionate about software developement
 - 🎓 Bachelor's Degree in Computer Engineering (99/110)
-## Technical skills 
+## 🛠️ Technical skills 
 - 👨🏻‍💻 **Programming languages:** Java, Kotlin, C, MATLAB, Python (learning C++ and C#)
 - 📄 **Markup languages:** LaTeX, XML, HTML, CSS
 - 📐 **Software modeling languages:** UML
