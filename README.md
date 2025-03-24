@@ -6,7 +6,7 @@
 - 📄 **Markup languages:** LaTeX, XML, HTML, CSS
 - 📐 **Software modeling languages:** UML
 - 🔍 **Query languages:** SQL
-- **Database:** MySQL
+- 🗂️ **Database:** MySQL
 - 🖥️ **Operating systems:** Windows, Linux
 - 🛠️ **Tools:** Visual Studio Code, Android Studio, Git, MATLAB, MySQL Workbench, Astah UML, Overleaf
 ## 🎯 My interests
