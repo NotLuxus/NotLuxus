@@ -17,5 +17,5 @@
 - Studying AI
 - Improving my game developement abilities
 - Learning more about operating systems in general
-## How to reach me
+## 📬 How to reach me
 - **E-mail:** lovoidiego@gmail.com
