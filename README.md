@@ -1,7 +1,7 @@
 ## 👾 About me
 - 💻 Passionate about software developement
 - 🎓 Bachelor's Degree in Computer Engineering (99/110)
-- 📖 Currently studying *Artificial Intelligence and Data Analytics [LM-32]* at Politecnico Di Torino  
+- 📖 Currently studying *"Artificial Intelligence and Data Analytics [LM-32]"* at Politecnico Di Torino  
 ## 🛠️ Technical skills 
 - 👨🏻‍💻 **Programming languages:** Java, Kotlin, C, MATLAB, Python (currently learning C++ and C#)
 - 📄 **Markup languages:** LaTeX, XML, HTML, CSS
