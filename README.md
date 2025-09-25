@@ -3,13 +3,13 @@
 - 🎓 Bachelor's Degree in Computer Engineering (99/110)
 - 📖 Currently studying *"Artificial Intelligence and Data Analytics [LM-32]"* at Politecnico Di Torino  
 ## 🛠️ Technical skills 
-- 👨🏻‍💻 **Programming languages:** Java, Kotlin, C, MATLAB, Python (currently learning C++ and C#)
+- 👨🏻‍💻 **Programming languages:** Java, Kotlin, C, C#, MATLAB, Python, C++ (currently learning)
 - 📄 **Markup languages:** LaTeX, XML, HTML, CSS
-- 📐 **Software modeling languages:** UML
 - 🔍 **Query languages:** SQL
 - 🗂️ **Database:** MySQL
+- 📐 **Software modeling languages:** UML
 - 🖥️ **Operating systems:** Windows, Linux, MacOS
-- 🛠️ **Tools:** Visual Studio Code, Android Studio, Git, MATLAB, MySQL Workbench, Astah UML, Overleaf, Photoshop
+- 🛠️ **Tools:** Visual Studio Code, Unity, Android Studio, Git, MySQL Workbench, MATLAB, Astah UML, Overleaf, Photoshop
 ## 🎯 My interests
 - 🎮 Video game developement
 - 🖥️ Desktop software developement
