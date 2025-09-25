@@ -17,6 +17,6 @@
 ## 🏁 Future objectives
 - Studying data science and AI applictions
 - Improving my game developement skills
-- Studying core concepts of operating systems
+- Learning core concepts of operating systems
 ## 📬 How to reach me
 - **E-mail:** lovoidiego@gmail.com
