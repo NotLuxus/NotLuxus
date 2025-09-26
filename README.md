@@ -3,7 +3,7 @@
 - 🎓 Bachelor's Degree in Computer Engineering (99/110)
 - 📖 Currently studying *"Artificial Intelligence and Data Analytics [LM-32]"* at Politecnico Di Torino  
 ## 🛠️ Technical skills 
-- 👨🏻‍💻 **Programming languages:** Java, Kotlin, C, C#, MATLAB, Python, C++ (currently learning)
+- 👨🏻‍💻 **Programming languages:** Java, C, C#, Python, Kotlin, MATLAB, C++ (currently learning)
 - 📄 **Markup languages:** LaTeX, XML, HTML, CSS
 - 🔍 **Query languages:** SQL
 - 🗂️ **Database:** MySQL
