@@ -9,7 +9,7 @@
 - 🗂️ **Database:** MySQL
 - 📐 **Software modeling languages:** UML
 - 🖥️ **Operating systems:** Windows, Linux, MacOS
-- 🛠️ **Tools:** Visual Studio Code, Unity, Android Studio, Git, MySQL Workbench, MATLAB, Astah UML, Overleaf, Photoshop
+- 🛠️ **Tools:** Visual Studio Code, Unity Engine, Android Studio, Git, MySQL Workbench, MATLAB, Astah UML, Overleaf, Photoshop
 ## 🎯 My interests
 - 🎮 Video game developement
 - 🖥️ Backend software developement
